@@ -15,3 +15,9 @@
 **Versão Python:** 3.8.3 64bits com anaconda 2020.07
 
 **Ambiente:** Windows
+
+## Configuração:
+
+* Download e instalação do Anaconda em https://www.anaconda.com/products/individual
+* Download e instalação do Visual Studio Code
+* Instalação do Python extension for Visual Studio Code
